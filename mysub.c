@@ -1,9 +1,3 @@
-// CS 111 - Project 2
-// Spring 2018
-
-// Brayan Gallardo - 67982922
-// Justin Choi - 40532889
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
